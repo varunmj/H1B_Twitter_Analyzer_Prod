@@ -9,10 +9,15 @@ H1B Twitter Analyzer is a two-part project designed to analyze sentiment from tw
 This project is deployed using Vercel for the frontend and an AWS EC2 instance for the backend.
 
 ---
-```
+## Architecture
+![alt text](H1B_twitter_Architecture_diagram.png "H1B_twitter_Sentiment Analyzer Architecture_diagram")
+
+
+---
+
 ## Folder Structure
 
-
+```
 H1B_Twitter_Project
 ├── Frontend
 │   ├── .env
@@ -202,4 +207,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 ## Acknowledgments
-This project was developed collaboratively by [Venkata Mohith Mrunal Attuluri](https://github.com/mohithmrunal) and [Varun Mohankumar Jayasree](https://github.com/varunmj). Their combined expertise in software engineering and AI-powered solutions made this project a success.
+This project was developed collaboratively by [Venkata Mohith Mrunal Attuluri](https://github.com/mohithmrunal) and [Varun Mohankumar Jayasree(Myself)](https://github.com/varunmj). 
